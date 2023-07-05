@@ -1,6 +1,6 @@
 # holbertonschool-AirBnB_clone 💻
 
-![App Screenshot](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230705%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230705T210335Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e843fc76aca12c0bc199efc0ce453e1ed09254558267758c757d6171c8a33e6a)
+![App Screenshot](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230705%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230705T215640Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8c2fa6eb7f1bd192bec489cd58da69370cc560ec469e84bc9c24490caab3d210)
 
 # Description 📑
 - The AirBnB clone project starts now until… the end of the first year. The goal of the project is to deploy on your server a simple copy of the AirBnB website.
